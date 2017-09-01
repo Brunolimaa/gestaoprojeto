@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Projeto\Providers;
 
 use App\User;
 use Illuminate\Support\Facades\Gate;
