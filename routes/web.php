@@ -12,6 +12,4 @@
 |
 */
 
-$app->get('/', function () use ($app) {
-    return $app->version();
-});
+$app->get('/', ['as' => 'projeto.index', 'uses'=>'indexController@index']);
