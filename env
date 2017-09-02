@@ -1,4 +1,4 @@
-APP_ENV=local
+php APP_ENV=local
 APP_DEBUG=true
 APP_KEY=W%9rhVh#08EivHX)d1kXFuAziwZaH##A
 APP_TIMEZONE=UTC
