@@ -1,0 +1,23 @@
+{
+  "name": "gestaoprojeto",
+  "description": "Agenda Telefonica",
+  "main": "",
+  "authors": [
+    "Bruno Lima <br_lima@live.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Brunolimaa/gestaoprojeto",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
