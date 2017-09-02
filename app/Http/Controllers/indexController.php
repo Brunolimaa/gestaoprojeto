@@ -15,4 +15,9 @@ class indexController extends Controller
     {
         return view('layout');
     }
+    
+    public function teste()
+    {
+        return view('painel');
+    }
 }

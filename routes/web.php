@@ -13,3 +13,6 @@
 */
 
 $app->get('/', ['as' => 'projeto.index', 'uses'=>'indexController@index']);
+
+
+$app->get('/painel', ['as' => 'projeto.teste', 'uses'=>'indexController@teste']);
