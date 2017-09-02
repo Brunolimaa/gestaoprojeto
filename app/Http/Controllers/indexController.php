@@ -20,4 +20,8 @@ class indexController extends Controller
     {
         return view('painel');
     }
+    
+    public function login(){
+        return view('login');
+    }
 }

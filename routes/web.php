@@ -16,3 +16,5 @@ $app->get('/', ['as' => 'projeto.index', 'uses'=>'indexController@index']);
 
 
 $app->get('/painel', ['as' => 'projeto.teste', 'uses'=>'indexController@teste']);
+
+$app->get('/login', ['as' => 'projeto.login', 'uses' => 'indexController@login']);

@@ -100,7 +100,7 @@
                         <span class="fa-angle-right fa right-arrow text-right"></span>
                       </a>
                       <ul class="nav nav-list tree">
-                          <li><a href="painel">Preencher Proposta</a></li>
+                          <li><a href="login">Preencher Proposta</a></li>
                       </ul>
                     </li>
                     <li class="active ripple">
